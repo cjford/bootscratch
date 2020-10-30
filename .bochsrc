@@ -1,0 +1,5 @@
+floppya: 1_44=os-image, status=inserted
+ata0-master: type=disk, path="hd", mode=flat
+boot: floppy
+clock: sync=slowdown
+display_library: sdl2
